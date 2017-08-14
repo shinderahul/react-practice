@@ -1,5 +1,5 @@
 {
-  "name": "rest-api",
+  "name": "React Practice",
   "version": "1.0.0",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
   "main": "index.js",
@@ -21,7 +21,7 @@
     "url": "git+https://github.com/shinderahul/react-practice.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rahul Shinde",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shinderahul/react-practice/issues"
