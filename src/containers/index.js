@@ -1,4 +1,5 @@
 import React from 'react';
+import Routes from '../routes/';
 
 class App extends React.Component {
    render() {
@@ -7,6 +8,7 @@ class App extends React.Component {
           <div className="dashboard container">
             <div className="row">
               <p>This is dashboard</p>
+              <Routes />
             </div>
           </div>
         </div>
