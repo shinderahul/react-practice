@@ -1,6 +1,7 @@
 import React from 'react';
 import './AddNewItem.css';
 import InputText from '../components/InputText/';
+import InputSubmit from '../components/InputSubmit/';
 
 const AddNewItem = () => (
   <div className="container">
@@ -63,8 +64,7 @@ const AddNewItem = () => (
             </div>
         </div>
 
-
-        <button className="btn btn-primary">Add Data</button>
+        <InputSubmit value="Add Data" />
     </form>
 
   </div>
