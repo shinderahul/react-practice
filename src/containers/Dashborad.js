@@ -4,6 +4,7 @@ const Dashboard = () => (
   <div className="container">
     <div className="row">
       <div className="xs-12">
+        <h2>Dashboard</h2>
         <table className="table table-bordered">
           <thead>
             <tr>
