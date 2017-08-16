@@ -1,5 +1,6 @@
 import React from 'react';
 import './AddNewItem.css';
+import InputText from '../components/InputText/';
 
 const AddNewItem = () => (
   <div className="container">
@@ -8,42 +9,42 @@ const AddNewItem = () => (
         <h2>Summary</h2>
 
         <div className="required-field-block">
-            <input type="text" placeholder="Item Code" className="form-control"/>
+            <InputText placeholder="Item Code" />
             <div className="required-icon">
                 <div className="text">*</div>
             </div>
         </div>
 
         <div className="required-field-block">
-            <input type="text" placeholder="Item Name" className="form-control"/>
+            <InputText placeholder="Item Name" />
             <div className="required-icon">
                 <div className="text">*</div>
             </div>
         </div>
 
         <div className="required-field-block">
-            <input type="text" placeholder="Item Description" className="form-control"/>
+            <InputText placeholder="Item Description" />
             <div className="required-icon">
                 <div className="text">*</div>
             </div>
         </div>
 
         <div className="required-field-block">
-            <input type="text" placeholder="Item Price" className="form-control"/>
+            <InputText placeholder="Item Price" />
             <div className="required-icon">
                 <div className="text">*</div>
             </div>
         </div>
 
         <div className="required-field-block">
-            <input type="text" placeholder="Item quantity present in stock" className="form-control"/>
+            <InputText placeholder="Item quantity present in stock" />
             <div className="required-icon">
                 <div className="text">*</div>
             </div>
         </div>
 
         <div className="required-field-block">
-            <input type="text" placeholder="Max order count for item" className="form-control"/>
+            <InputText placeholder="Max order count for item" />
             <div className="required-icon">
                 <div className="text">*</div>
             </div>
