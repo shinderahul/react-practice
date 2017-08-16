@@ -7,7 +7,7 @@ const AddNewItem = () => (
   <div className="container">
 
     <form role="form">
-        <h2>Summary</h2>
+        <h2>Add New Item</h2>
 
         <div className="required-field-block">
             <InputText placeholder="Item Code" />
