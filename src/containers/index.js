@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Dashboard extends React.Component {
+class App extends React.Component {
    render() {
       return (
         <div>
@@ -14,4 +14,4 @@ class Dashboard extends React.Component {
    }
 }
 
-export default Dashboard;
+export default App;
