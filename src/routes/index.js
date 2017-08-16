@@ -11,18 +11,17 @@ import Summary from '../containers/Summary.js';
 const Routes = () => (
   <Router>
     <div>
-      <ul>
+    <nav>
+      <ul className="nav nav-pills pull-right">
         <li><Link to="/">Home</Link></li>
         <li><Link to="/add-new-item">Add New Item</Link></li>
         <li><Link to="/summary">Summary</Link></li>
       </ul>
-
-      <hr/>
-
       <Route exact path="/" component={Dashboard}/>
       <Route path="/add-new-item" component={AddNewItem}/>
       <Route path="/summary" component={Summary}/>
-    </div>
+    </nav>
+  </div>
   </Router>
 )
 
