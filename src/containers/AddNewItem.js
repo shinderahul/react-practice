@@ -6,7 +6,7 @@ import InputSubmit from '../components/InputSubmit/';
 const AddNewItem = () => (
   <div className="container">
 
-    <form role="form">
+    <form>
         <h2>Add New Item</h2>
 
         <div className="required-field-block">
