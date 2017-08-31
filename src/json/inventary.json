@@ -1,4 +1,4 @@
-{
+[{
   "id": 1,
   "itemCode" : "AB101",
   "itemName" : "Apple iPhone 7",
@@ -106,4 +106,4 @@
   "maxOrder" : "5",
   "category" : "Clothing",
   "dateTime" : "16.45, 17 July"
-}
+}]
