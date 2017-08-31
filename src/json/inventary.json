@@ -1,0 +1,113 @@
+{
+  "inventaries": [
+    {
+      "id": 1,
+      "itemCode" : "AB101",
+      "itemName" : "Apple iPhone 7",
+      "description" : "The latest iPhone with advanced camera, better battery life, immersive speakers and water resistance!",
+      "price" : "56800",
+      "quantity" : "20",
+      "maxOrder" : "4",
+      "category" : "Electronics",
+      "dateTime" : "16.45, 17 July"
+    },
+    {
+      "id": 2,
+      "itemCode" : "AB102",
+      "itemName" : "Sphere Stainless steel",
+      "description" : "Accessorize your kitchenware with this highly designed stylish stainless steel dinner set that provides greater utility and functionality.",
+      "price" : "775",
+      "quantity" : "15",
+      "maxOrder" : "3",
+      "category" : "Home",
+      "dateTime" : "16.45, 17 July"
+    },
+    {
+      "id": 3,
+      "itemCode" : "AB103",
+      "itemName" : "Protoner PRGCL Blend Gym Accessories",
+      "description" : "Now have that ultimate grip and stability while lifting weights with the help of these gym gloves.",
+      "price" : "115",
+      "quantity" : "30",
+      "maxOrder" : "5",
+      "category" : "Accessories",
+      "dateTime" : "16.45, 17 July"
+    },
+    {
+      "id": 4,
+      "itemCode" : "AB104",
+      "itemName" : "Wrangler Men's T-Shirt",
+      "description" : "Machine wash cold, color may transfer wash separately use mild detergent turn inside.",
+      "price" : "747",
+      "quantity" : "25",
+      "maxOrder" : "4",
+      "category" : "Clothing",
+      "dateTime" : "16.45, 17 July"
+    },
+    {
+      "id": 5,
+      "itemCode" : "AB105",
+      "itemName" : "AmazonBasics Universal Travel Case",
+      "description" : "AmazonBasics products are quality electronics accessories offered at a great value. Made in China.",
+      "price" : "599",
+      "quantity" : "40",
+      "maxOrder" : "2",
+      "category" : "Accessories",
+      "dateTime" : "16.45, 17 July"
+    },
+    {
+      "id": 6,
+      "itemCode" : "AB106",
+      "itemName" : "Aroccom 1.5-Watt Night Lamp",
+      "description" : "Top quality Ingenious design of mushroom with lotus leaf design Vibrant and mild LED mild, ideal for home decoration Energy saving, environmental, low consumption and long lifestyles-span Power: 220V 1/5W",
+      "price" : "220",
+      "quantity" : "10",
+      "maxOrder" : "1",
+      "category" : "Home",
+      "dateTime" : "16.45, 17 July"
+    },
+    {
+      "id": 7,
+      "itemCode" : "AB107",
+      "itemName" : "Jogger Pants",
+      "description" : "Joggers are just the perfect combination of trendy and comfort! This pair of jet GREENack2mens joggers for men is something every style icon needs to add to his wardrobe.",
+      "price" : "899",
+      "quantity" : "25",
+      "maxOrder" : "3",
+      "category" : "Clothing",
+    },
+    {
+      "id": 8,
+      "itemCode" : "AB108",
+      "itemName" : "Xbox 360 4GB Console",
+      "description" : "The latest iPhone with advanced camera, better battery life, immersive speakers and water resistance!",
+      "price" : "15053",
+      "quantity" : "10",
+      "maxOrder" : "1",
+      "category" : "Electronics",
+      "dateTime" : "16.45, 17 July"
+    },
+    {
+      "id": 9,
+      "itemCode" : "AB109",
+      "itemName" : "Wood Handle Comb",
+      "description" : "Made from the wood of Neem tree - this comb has three main properties. 1) No static properties, hence no hair loss",
+      "price" : "185",
+      "quantity" : "50",
+      "maxOrder" : "7",
+      "category" : "Accessories",
+      "dateTime" : "16.45, 17 July"
+    },
+    {
+      "id": 10,
+      "itemCode" : "AB110",
+      "itemName" : "blackberrys Men's Formal Shirt",
+      "description" : "67% Linen and 33% cotton, Regular fit, Classic collar, Do not bleach, Made in India",
+      "price" : "2395",
+      "quantity" : "20",
+      "maxOrder" : "5",
+      "category" : "Clothing",
+      "dateTime" : "16.45, 17 July"
+    }
+  ]
+}
